@@ -1,5 +1,6 @@
 This is my sample GIT
 Test 1
 Test 2
+Test 3
 
 Thank you
